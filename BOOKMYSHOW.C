@@ -23,7 +23,6 @@ struct ticket
 
 
 
-
 struct node *rear=NULL,*front=NULL;
 struct ticket *trear=NULL,*tfront=NULL;
 
